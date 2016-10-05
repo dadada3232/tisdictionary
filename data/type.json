@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "55607c92ccbc440e98a1b279",
+    "notation": "duim",
+    "title": "Дюйм"
+  },
+  {
+    "_id": "55605c32ccbc451054e7729b",
+    "notation": "datetime",
+    "title": "Дата и время"
+  },
+  {
+    "_id": "556058a3ccbc451054e77297",
+    "notation": "date",
+    "title": "Дата"
+  },
+  {
+    "_id": "5558e391ccbc4517bc9477fd",
+    "notation": "R",
+    "title": "Вещественное"
+  },
+  {
+    "_id": "5558e38accbc4517bc9477fc",
+    "notation": "Z",
+    "title": "Целое"
+  },
+  {
+    "_id": "555886e6ccbc441534df284c",
+    "notation": "T",
+    "title": "Текст"
+  }
+]

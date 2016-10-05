@@ -1,0 +1,101 @@
+.claro .gridx {
+    border: none;
+}
+
+.claro .dijitMenu {
+    border: none;
+}
+
+/*.gridxBody {
+    overflow: inherit !important;
+}*/
+
+.gridxRowHeaderRow table, .gridxRow .gridxRowTable, .gridxHeaderRow table {
+    width: 100%;
+}
+
+#borderContainer {
+    width: 100%;
+    height: 100%;
+}
+
+/*applied to a single gridx instance by ID*/
+#gridNode {
+    height: 100%;
+    width: 100%;
+}
+
+/* or applied to all gridx instances*/
+.gridx {
+    width: 100%;
+    height: 100%;
+}
+
+.claro .dijitBorderContainer {
+    padding: 0;
+}
+
+.gridxMain {
+    min-height: 90%;
+}
+
+#footer {
+    padding: 15px 0 0 0;
+    border-top: 1px solid beige;
+}
+
+.header div.logo {
+    padding: 5px 0 0 10px;
+    font-size: 2em;
+    text-shadow: 0 1px 0 #ccc,
+    0 2px 0 #c9c9c9;
+}
+
+.header div.logo a {
+    color: black;
+    text-decoration: none;
+}
+
+.header div.user {
+    float: right;
+    padding: 5px 10px 0 0;
+    text-align: right;
+}
+
+.claro .dijitSplitterV, .claro .dijitGutterV {
+    width: 0;
+}
+
+.claro .dijitSplitterH, .claro .dijitGutterH {
+    height: 0;
+}
+
+.claro .dijitSplitContainer-child, .claro .dijitBorderContainer-child {
+    border: none;
+}
+
+.mainDiv {
+    margin: 0 auto;
+    overflow: visible;
+}
+
+#divWithSplitter + div.dijitSplitter, #divWithSplitter + div + div.dijitSplitter {
+    height: 5px !important; /*для раздилительной черты между входными и выходными значениями*/
+}
+
+.dijitBorderContainer, .dijitBorderContainerNoGutter {
+    overflow: visible;
+}
+
+.width100Percent {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    left: 0 !important;
+    border: none !important;
+}
+
+.top0 {
+    top: 0 !important;
+}
+

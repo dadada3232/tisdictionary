@@ -1,0 +1,44 @@
+{
+  "name": "TIS-DICTIONARY",
+  "version": "1.0.0",
+  "description": "tis-dictionary",
+  "keywords": [
+    "tis",
+    "dictionary"
+  ],
+  "author": {
+    "name": "SNosov",
+    "email": "nosovserzh@gmail.com",
+    "url": ""
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openshift/origin-server"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "express": "~3.4.4",
+    "winston": "*",
+    "nconf": "*",
+    "ejs": "*",
+    "ejs-locals": "*",
+    "serve-static": "*",
+    "soap": "*",
+    "mongodb": "*",
+    "jsonpath": "*",
+    "body-parser": "*",
+    "async": "*",
+    "bower": "*"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+
+
+  "private": true,
+  "main": "server.js"
+}

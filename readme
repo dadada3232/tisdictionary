@@ -1,0 +1,5 @@
+1) scripts in package.json
+"scripts": {
+       "postinstall": "export HOME=/var/lib/openshift/55c5d7f72d527173ca000045/app-root/runtime/repo; ./node_modules/bower/bin/bower install"
+},
+

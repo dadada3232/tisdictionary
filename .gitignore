@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules
+.idea
+npm-debug.log
+vendor
+
+public/js/dojo/ecm
+public/js/dojo/gridx
+public/js/dojo/dijit
+public/js/dojo/dojox
+public/js/dojo/dojo

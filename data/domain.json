@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "55605ac4ccbc451054e7729a",
+    "notation": "equipment",
+    "title": "Оснастка"
+  },
+  {
+    "_id": "55605a58ccbc451054e77299",
+    "notation": "inst",
+    "title": "Инструмент"
+  },
+  {
+    "_id": "55605a2accbc451054e77298",
+    "notation": "pr",
+    "title": "Технологический процесс"
+  },
+  {
+    "_id": "55589325ccbc441534df284e",
+    "notation": "det",
+    "title": "Деталь"
+  }
+]

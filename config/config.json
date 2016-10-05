@@ -1,0 +1,13 @@
+{
+  "urls": {
+    "tis-admin": "http://tps.ifmo.ru/tis/"
+  },
+  "port": 3000,
+  "host": "localhost",
+  "ws": {
+    "adminservice": "http://tps.ifmo.ru/tis/services/adminservice.asmx?wsdl",
+    "tiscatalogserver": "http://tps.ifmo.ru/tis/services/tiscatalogserver.asmx?wsdl",
+    "xmlns": "http://tissystem.ru.alias.hostingasp.ru/",
+    "mguid": "96a70b70-68bd-4e1e-bcc8-242c188d05c4"
+  }
+}
